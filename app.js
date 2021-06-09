@@ -94,5 +94,5 @@ function initMap() {
 	}
 }
 
-const audio = document.getElementById("foobar");
+const audio = document.getElementById("audio");
 audio.play();
